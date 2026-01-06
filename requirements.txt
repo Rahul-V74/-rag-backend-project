@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+qdrant-client
+sentence-transformers
+langchain
+langchain-community
+langchain-core
+python-multipart
+pypdf
+docx2txt
+requests
